@@ -7,7 +7,7 @@ Sales Trends Over Time Top-Selling Products Regional Sales Distribution Monthly 
 
 Power BI Desktop (latest version) Sales data in a compatible format (CSV, Excel, SQL databases, etc.) 📥 How to Use
 
-Download the Template 
+Download the Template https://github.com/SenthilPirasanth/Sales-Insight-Data-Analysis
 
 Clone the repository or download the .pbit file.
 
